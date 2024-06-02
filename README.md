@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm John Doe 👋
 
-<!--
-**enitefall88/enitefall88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=johndoe)
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on [Project XYZ](https://github.com/johndoe/projectxyz)
+- 🌱 I’m currently learning **React** and **Node.js**
+- 💬 Ask me about **JavaScript**, **Python**, or **Machine Learning**
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- ⚡ Fun fact: I love to solve puzzles!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+## GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
