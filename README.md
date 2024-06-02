@@ -1,6 +1,8 @@
-Hobbyist programmer with a keen interest in learning programming and web development.
+Hobbyist coder with a keen interest in learning programming and web development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=johndoe)
+🔭 I’m currently learning **FastAPI** and **Python**
+🚀 I'm enthusiastic to learn and try new technologies
+👨‍💻 I’m currently working on [CryptoTracker](http://142.93.128.186:3000/cryptocurrencies/)
 
 
 ## Languages and Tools
@@ -12,6 +14,6 @@ Hobbyist programmer with a keen interest in learning programming and web develop
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ## Projects
-- [Project XYZ](https://github.com/johndoe/projectxyz): Description of Project XYZ.
-- [Another Project](https://github.com/johndoe/another-project): Description of Another Project.
+- [CryptoTracker](http://142.93.128.186:3000/cryptocurrencies/): Simple CryptoTracker (full-stack app)
+- [Another Project](https://enitefall88.github.io/Test_Assignment/): Simple React Inventory Control App
 
